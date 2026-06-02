@@ -79,10 +79,4 @@ El diseño es Mobile First y se adapta a tres tamaños:
 ## Publicación
 
 - **Página web:** _https://vcuadros87.github.io/Simuladores-en-Crisis-Economica/_
-- **Repositorio Git:** _(completar enlace del repositorio)_
-
----
-
-## Nota
-
-Este proyecto es una herramienta educativa. No pretende emitir juicios políticos ni económicos. Los datos usados en los casos de estudio son aproximaciones ilustrativas basadas en el contexto boliviano actual.
+- **Repositorio Git:** _https://github.com/vcuadros87/Simuladores-en-Crisis-Economica.git_
