@@ -76,6 +76,12 @@ El diseño es Mobile First y se adapta a tres tamaños:
 - **Escritorio** — desde 900px, hasta cuatro columnas
 
 ---
+## Publicación
+
+- **Página web:** _(completar enlace de GitHub Pages / Netlify / Vercel)_
+- **Repositorio Git:** _(completar enlace del repositorio)_
+
+---
 
 ## Nota
 
