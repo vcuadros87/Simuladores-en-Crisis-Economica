@@ -78,7 +78,7 @@ El diseño es Mobile First y se adapta a tres tamaños:
 ---
 ## Publicación
 
-- **Página web:** _(completar enlace de GitHub Pages / Netlify / Vercel)_
+- **Página web:** _https://vcuadros87.github.io/Simuladores-en-Crisis-Economica/_
 - **Repositorio Git:** _(completar enlace del repositorio)_
 
 ---
